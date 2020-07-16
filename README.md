@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
+The component itself is an abbreviated replica of one I had built for a video streaming client, which allows a business representative to reorder channels as they would appear on an application ribbon. When built, it replaced a bureaucratic process that involved business representatives, engineers and several days of painful reinterpretation. I am quite proud of it.
+
+You should be able to:
+* Select channels (try Ctrl and Shift selects)
+* Drag and drop channels to reorder them
+* Search for channels using the field at the top.
+
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
